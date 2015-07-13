@@ -38,9 +38,13 @@
 
 * On Mac, again, download the Python 3 installer from python.org
 
-* On Linux, use your package manager.  On Ubuntu, if you don't have pip, use 
+* On Linux, use your package manager.  If you don't have pip, use 
 
+    # Debian/Ubuntu
     apt-get install python3-pip
+    
+    # Fedora
+    yum install python3-pip
 
 
 ## Install Git-Bash (for Windows)
